@@ -40,6 +40,6 @@ Validation Scenarios:
  --Ego vehicle adapts and resumes higher cruising speed.
 
 Author:
-Kaushik Das
-Applied Electronics and Instrumentation Engineering
+Kaushik Das,
+Applied Electronics and Instrumentation Engineering,
 University of Burdwan
